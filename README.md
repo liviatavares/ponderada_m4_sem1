@@ -58,7 +58,7 @@ Coloquei, no protótipo, os seguintes componentes:
 2. Arduino Uno 
 3. Jumpers preto e vermelho
 4. Led vermelho
-5. Resistor de 1k\(\Omega \)
+5. Resistor de 1kΩ
 
 <div align="center">
 <sub>Figura 03: Protótipo de circuito do TinkerCad.</sub>
