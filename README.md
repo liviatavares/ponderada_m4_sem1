@@ -99,14 +99,14 @@ Com isso, o simulador roda mostrando o led interno do arduíno piscando juntamen
 A partir disso, pode-se criar um modelo físico, observado na imagem abaixo: 
 
 <div align="center">
-<sub>Figura 05: Esquemático de circuito do TinkerCad.</sub>
+<sub>Figura 05: Foto do circuito físico funcionando.</sub>
 </div>
 <div align="center">
 <img src="parte 2/assets/led.jpg">
 </div>
 
 <div align="center">
-<sub>Fonte: TinkerCad.</sub>
+<sub>Fonte: a autora.</sub>
 </div>
 
 Em `assets`, pode-se observar um vídeo do led funcionando, e outro vídeo que mostra vários leds piscando, com um circuito construído de maneira similar.
