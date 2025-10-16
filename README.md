@@ -102,7 +102,7 @@ A partir disso, pode-se criar um modelo físico, observado na imagem abaixo:
 <sub>Figura 05: Esquemático de circuito do TinkerCad.</sub>
 </div>
 <div align="center">
-<img src="parte 2/assets/led.png">
+<img src="parte 2/assets/led.jpg">
 </div>
 
 <div align="center">
